@@ -8,6 +8,6 @@
 
 ## Contains:
 <ul>
-  <li>Courier Management System Assignment <i>(SQL Queries)</i>i></li>
+  <li>Courier Management System Assignment <i>(SQL Queries)</i></li>
   <li>SQL Coding Assessment <i>(Car Rental System)</i></li>
 </ul>
